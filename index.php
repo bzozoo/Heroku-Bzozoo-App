@@ -11,7 +11,7 @@
   <body>
   <div style="color: white; background-color: red;"><?php
 echo "Ez az első HEROKU web applikációm 😁 Ez PHP-t használ a HTML weboldalak kirajzolására, de lehetőség van NodeJS használatára is. Próbáljátok ki ti is. 🙂";
-?>
+?> <a href="https://heroku.com">A Heroku főoldala</a>
 </div>
 <a href="phpinfo.php">PHP szerverinformációk</a>
 </body>
