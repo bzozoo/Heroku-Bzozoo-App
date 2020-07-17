@@ -1,5 +1,11 @@
 <html>
   <head>
+    
+    <meta property="og:title" content="AZ ELSŐ HEROKU APPLIKÁCIÓM" />
+<meta property="og:description" content=" Ez PHP-t használ a HTML weboldalak kirajzolására, de lehetőség van NodeJS használatára is. Próbáljátok ki ti is" />
+<meta property="og:image" content="https://zimmergren.net/content/images/2016/09/herokulogo.png" />
+
+    
   <title>AZ ELSŐ HEROKU APPLIKÁCIÓM</title>
   </head>
   <body>
